@@ -1,0 +1,293 @@
+{
+	"[Autobus][37][1][Понедельник][Monday]": {
+		"A": [
+			{
+				"stopName": "ДС Карбышева",
+				"stopId": "14364",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Зеленый Луг-5",
+				"stopId": "14358",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Спортшкола",
+				"stopId": "14362",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Гостиница \"Агат\"",
+				"stopId": "69222",
+				"routeType": "A"
+			},
+			{
+				"stopName": "ДС Калиновского~(посадка пассажиров)",
+				"stopId": "14353",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Восток-2",
+				"stopId": "14484",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Дворец борьбы",
+				"stopId": "14483",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Хлебозавод № 5",
+				"stopId": "14480",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Широкая",
+				"stopId": "14390",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Магазин Электроника",
+				"stopId": "14392",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Лукьяновича",
+				"stopId": "14395",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Коласа Я.",
+				"stopId": "14397",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Кнорина",
+				"stopId": "14399",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Короленко",
+				"stopId": "14401",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Кедышко",
+				"stopId": "14403",
+				"routeType": "A"
+			},
+			{
+				"stopName": "ст.м. Московская",
+				"stopId": "14490",
+				"routeType": "A"
+			},
+			{
+				"stopName": "ст.м. Парк Челюскинцев",
+				"stopId": "14492",
+				"routeType": "A"
+			},
+			{
+				"stopName": "пл. Калинина",
+				"stopId": "15859",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Дом Печати",
+				"stopId": "14767",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Бровки",
+				"stopId": "15515",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Гикало",
+				"stopId": "15516",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Платонова",
+				"stopId": "15480",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Захарова",
+				"stopId": "15605",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Соломенная",
+				"stopId": "15606",
+				"routeType": "A"
+			},
+			{
+				"stopName": "Андреевская",
+				"stopId": "15607",
+				"routeType": "A"
+			},
+			{
+				"stopName": "ДС Восточная",
+				"stopId": "15629",
+				"routeType": "A"
+			}
+		],
+		"B": [
+			{
+				"stopName": "ДС Восточная",
+				"stopId": "15629",
+				"routeType": "B"
+			},
+			{
+				"stopName": "ДС Восточная",
+				"stopId": "15630",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Андреевская",
+				"stopId": "15631",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Соломенная",
+				"stopId": "15632",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Захарова",
+				"stopId": "15481",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Платонова",
+				"stopId": "15479",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Гикало",
+				"stopId": "15482",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Бровки П.",
+				"stopId": "15483",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Академическая",
+				"stopId": "15514",
+				"routeType": "B"
+			},
+			{
+				"stopName": "ст.м. Академия наук",
+				"stopId": "15952",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Дом Печати",
+				"stopId": "14756",
+				"routeType": "B"
+			},
+			{
+				"stopName": "пл. Калинина",
+				"stopId": "14494",
+				"routeType": "B"
+			},
+			{
+				"stopName": "ст.м. Парк Челюскинцев",
+				"stopId": "14495",
+				"routeType": "B"
+			},
+			{
+				"stopName": "ст.м. Московская",
+				"stopId": "14344",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Кедышко",
+				"stopId": "14402",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Короленко",
+				"stopId": "14400",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Кнорина",
+				"stopId": "14398",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Коласа Я.",
+				"stopId": "14396",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Лукьяновича",
+				"stopId": "14394",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Магазин Электроника",
+				"stopId": "14391",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Калиновского",
+				"stopId": "14454",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Хлебозавод № 5",
+				"stopId": "14481",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Дворец борьбы",
+				"stopId": "14482",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Восток-2",
+				"stopId": "14485",
+				"routeType": "B"
+			},
+			{
+				"stopName": "ДС Калиновского",
+				"stopId": "58345",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Гостиница \"Агат\"",
+				"stopId": "14357",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Спортшкола",
+				"stopId": "14363",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Почта",
+				"stopId": "14361",
+				"routeType": "B"
+			},
+			{
+				"stopName": "Зеленый Луг-5",
+				"stopId": "14359",
+				"routeType": "B"
+			},
+			{
+				"stopName": "ДС Карбышева",
+				"stopId": "14440",
+				"routeType": "B"
+			},
+			{
+				"stopName": "ДС Карбышева",
+				"stopId": "14364",
+				"routeType": "B"
+			}
+		]
+	}
+}

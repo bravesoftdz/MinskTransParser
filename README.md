@@ -10,3 +10,20 @@ The site's PDA from which data is taken: http://www.minsktrans.by/pda/
 2. GSON (2.8.2)
 3. commons-lang3-3.4
 4. javax.servlet-api-4.0.0
+
+# Example usage 
+
+get list of stops on the route:
+(AJAX)
+var param = {
+	action : "getBusStops",
+	transport : "Autobus",
+	number : 37,
+	day : 1
+};
+
+url : "http://************/MinskTrans/TransportStops",
+
+Example of the result in a file.
+
+

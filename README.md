@@ -1,7 +1,7 @@
 # MinskTransParser
-MinkTrans parser (JAVA + MAVEN)
+MinkTrans parser (JAVA + MAVEN + SERVLET)
 
-Parser of city transport from the site of minsktrans.by. Creation of a server with a redesigned API to obtain the transport schedule (bus, trolleybus, tram). 
+Parser of city transport from the site of minsktrans.by. Creation of a server with a redesigned API to obtain the transport schedule (bus, trolleybus, tram). The server accepts the request, processes the site, creates the json and renders.
 
 PDA version: http://www.minsktrans.by/pda/
 

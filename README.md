@@ -24,6 +24,6 @@ var param = {
 
 url : "http://************/MinskTrans/TransportStops",
 
-Example of the result in a file.
+Example of the result in a file (https://github.com/gvozdev1986/MinskTransParser/blob/master/JsonStopBusExample.json).
 
 
